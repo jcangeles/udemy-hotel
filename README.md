@@ -2,4 +2,4 @@
 Hotel Site Project from Modern HTML &amp; CSS Course
 
 Description:
-Non-response site.
+Responsive site!
